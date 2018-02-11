@@ -1,0 +1,12 @@
+#HeroRow{
+	background-image: url(https://c1.staticflickr.com/1/541/31685259171_ebd6abb687_k.jpg);
+
+}
+
+#HeroRow h1,
+#HeroRow h2,
+#HeroRow p {
+
+	font-family: "Code_Pro_Demo";
+
+}
